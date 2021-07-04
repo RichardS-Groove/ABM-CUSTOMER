@@ -1,0 +1,12 @@
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\bin\Debug\ABMclientes.exe.config
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\bin\Debug\ABMclientes.exe
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\bin\Debug\ABMclientes.pdb
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\bin\Debug\ABMclientes.xml
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.vbprojAssemblyReference.cache
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.Form1.resources
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.Resources.resources
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.vbproj.GenerateResource.cache
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.vbproj.CoreCompileInputs.cache
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.exe
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.xml
+C:\Users\Manuela\source\repos\ABMclientes\ABMclientes\obj\Debug\ABMclientes.pdb
